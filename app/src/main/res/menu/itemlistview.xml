@@ -4,7 +4,7 @@
         android:id="@+id/option_simpleDetails"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="Simple Details"/>
+        android:title="Simple Detailss" />
 
     <item
         android:id="@+id/option_webviewDetails"
